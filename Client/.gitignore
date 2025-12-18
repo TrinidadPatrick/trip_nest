@@ -7,6 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+Trip_Next_doc.docx
+.env
+
 node_modules
 dist
 dist-ssr
